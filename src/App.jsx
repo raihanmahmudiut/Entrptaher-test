@@ -5,14 +5,14 @@ function App() {
 	return (
 		<div className="flex justify-center items-center min-h-screen">
 			<div className="absolute rounded-md px-8 py-10 flex flex-col w-100 bg-gray-800 bg-opacity-95 text-center items-center">
-				<p className="text-xl mb-10 mt-6 text-white font-sans tracking-widest">
+				<h1 className="text-xl mb-10 mt-6 text-white font-normal ">
 					MR. COOL DEVELOPER
-				</p>
+				</h1>
 				<hr className="w-11/12 border-t border-slate-500"></hr>
-				<div className="text-wrap mt-10 tracking-widest font-sans font-thin text-gray-300 px-10">
-					<p className="text-xs">
+				<div className="text-wrap mt-10  text-gray-100 px-10">
+					<h3 className="text-xs">
 						I DEVELOP PIXEL PERFECT WEBSITES <br /> WITH COOL ANIMATION
-					</p>
+					</h3>
 				</div>
 
 				<div className="mt-10 flex flex-row gap-4">
