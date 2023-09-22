@@ -16,13 +16,13 @@ function App() {
 				</div>
 
 				<div className="mt-8 mb-10 flex flex-row gap-4">
-					<div className=" bg-blue-400 rounded-full w-8 h-8 text-center items-center justify-center flex text-white text-xl font-bold">
+					<div className="bg-[#6E93DB]  rounded-full w-8 h-8 text-center items-center justify-center flex text-white text-xl font-bold">
 						<img src="/icons8-facebook-48.png" className="w-4 h-4"></img>
 					</div>
-					<div className=" py-3 flex justify-center text-center items-center bg-green-400 rounded-full w-8 h-8">
+					<div className=" py-3 flex justify-center text-center items-center bg-[#84ba93] rounded-full w-8 h-8">
 						<img src="/icons8-phonecall-48.png" className="w-4 h-4 "></img>
 					</div>
-					<div className="flex justify-center text-center items-center bg-pink-400 rounded-full w-8 h-8">
+					<div className="flex justify-center text-center items-center bg-[#c98fa8] rounded-full w-8 h-8">
 						<img
 							src="/icons8-email-48.png"
 							className="w-4 h-4 rounded-md  "
