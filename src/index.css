@@ -14,14 +14,19 @@
 }
 
 body {
+	line-height: 20px;
 	font-family: "Ubuntu Mono", sans-serif;
-	background: rgb(2, 0, 36);
+	background: hsla(0, 100%, 81%, 1);
+
 	background: linear-gradient(
 		90deg,
-		rgba(2, 0, 36, 1) 0%,
-		rgba(255, 110, 110, 1) 0%,
-		rgba(0, 134, 249, 1) 100%
+		hsla(0, 100%, 81%, 1) 0%,
+		hsla(290, 24%, 67%, 1) 40%,
+		hsla(262, 24%, 65%, 1) 51%,
+		hsla(220, 42%, 57%, 1) 78%,
+		hsla(215, 100%, 45%, 1) 100%
 	);
+
 	overflow: hidden;
 }
 

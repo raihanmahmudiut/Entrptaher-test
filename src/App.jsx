@@ -4,13 +4,13 @@ import { BsFacebook } from "react-icons/bs";
 function App() {
 	return (
 		<div className="flex justify-center items-center min-h-screen">
-			<div className="absolute rounded-md px-8 py-10 flex flex-col w-100 bg-gray-800 bg-opacity-95 text-center items-center">
-				<h1 className="text-xl mb-10 mt-6 text-white font-normal ">
+			<div className="absolute rounded-md px-8 py-10 flex flex-col w-100 bg-gray-800 bg-opacity-80 text-center items-center">
+				<h1 className="text-xl mb-10 mt-6 mx-4 text-white font-extralight  tracking-[.3em] ">
 					MR. COOL DEVELOPER
 				</h1>
-				<hr className="w-11/12 border-t border-slate-500"></hr>
-				<div className="text-wrap mt-10  text-gray-100 px-10">
-					<h3 className="text-xs">
+				<hr className=" w-full border-t border-slate-500"></hr>
+				<div className="text-wrap mt-10  text-gray-100 px-6">
+					<h3 className=" text-[10px]">
 						I DEVELOP PIXEL PERFECT WEBSITES <br /> WITH COOL ANIMATION
 					</h3>
 				</div>

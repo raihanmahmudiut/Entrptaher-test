@@ -7,7 +7,7 @@ function Overlay() {
 
 		for (let i = 0; i < pixels.length; i++) {
 			// Generate a random delay between 5 seconds (5000ms) and 30 seconds (30000ms)
-			const randomDelay = Math.random() * 10000; // Random delay between 5s and 30s
+			const randomDelay = Math.random() * 500000; // Random delay between 5s and 30s
 			pixels[i].style.animationDelay = `${randomDelay}ms`;
 		}
 	}, []);
