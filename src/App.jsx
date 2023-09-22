@@ -25,7 +25,7 @@ function App() {
 					<div className="flex justify-center text-center items-center bg-[#c98fa8] rounded-full w-8 h-8">
 						<img
 							src="/icons8-email-48.png"
-							className="w-4 h-4 rounded-md  "
+							className="w-4 h-4 rounded-sm  "
 						></img>
 					</div>
 				</div>
