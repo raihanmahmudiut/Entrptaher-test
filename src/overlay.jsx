@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import "./Overlay.css"; // Import your styling for the overlay here
+import "./overlay.css"; // Import your styling for the overlay here
 
 function Overlay() {
 	useEffect(() => {
